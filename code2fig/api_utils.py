@@ -6,7 +6,7 @@ import collections
 import io
 import base64
 
-api_key = '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'
+api_key = ''
 
 
 def encode_image(image_path):
